@@ -7,7 +7,7 @@ Babel==2.4.0
 backports-abc==0.5
 beautifulsoup4==4.5.3
 bs4==0.0.1
-certifi==2017.1.23
+certifi==2022.12.7
 cffi==1.10.0
 click==6.7
 CommonMark==0.5.4
